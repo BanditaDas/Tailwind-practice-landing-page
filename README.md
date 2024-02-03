@@ -3,4 +3,4 @@
 
 This is a practice landing page using Tailwind CSS.
 
-visit --->
+visit --->  https://banditadas.github.io/Tailwind-practice-landing-page/
